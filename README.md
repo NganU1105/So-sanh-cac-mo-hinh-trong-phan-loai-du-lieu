@@ -12,7 +12,8 @@ TRÌNH TỰ THỰC HIỆN:
 2. Mô tả bộ dữ liệu
 3. Tiền xử lý dữ liệu
 4. Trực quan hóa dữ liệu
-   ![image](https://github.com/user-attachments/assets/bd6dd90c-dd58-4e34-aade-148065ea084a) ![image](https://github.com/user-attachments/assets/2da073a4-e272-4b46-b2c5-fef285b9e53c)
+
+![image](https://github.com/user-attachments/assets/bd6dd90c-dd58-4e34-aade-148065ea084a) ![image](https://github.com/user-attachments/assets/2da073a4-e272-4b46-b2c5-fef285b9e53c)
 5. Xây dựng các mô hình phân loại dữ liệu
    - (hồi quy Log, SVM, Random Forest, Naive Bayes) 
 6. Các chỉ số đánh giá mô hình
