@@ -2,6 +2,7 @@
 MỤC TIÊU BÀI TOÁN: 
 ##### Trong ngành công ty tài chính và công ty tài chính, việc cung cấp các sản phẩm vay tiêu dùng cá nhân đã trở thành một lĩnh vực quan trọng, mang lại lợi ích cho cả khách hàng và tổ chức tài chính. Hiểu rõ nhu cầu ngày càng tăng về tiền mặt và nhu cầu tiêu dùng cá nhân, công ty tài chính và công ty tài chính đang đưa ra những nỗ lực để phát triển và tăng cường doanh số của sản phẩm này, việc đưa ra các quyết định về chấp nhận hay từ chối các đề nghị vay tiêu dùng cá nhân đóng vai trò quan trọng. Để nâng cao hiệu quả và đạt được mục tiêu kinh doanh, công ty tài chính cần phải dự đoán một cách chính xác khả năng chấp nhận hay từ chối từng đề nghị vay tiêu dùng cá nhân. Trong bài báo cáo này, chúng ta sẽ tìm hiểu về phương pháp dự đoán chấp nhận các đề nghị cho vay tiêu dùng cá nhân của một công ty tài chính, nhằm tối ưu hóa quy trình và đạt được kết quả tốt nhất trong việc xử lý đề nghị vay.
 - Ý tưởng:
+  
   ![image](https://github.com/user-attachments/assets/86b73f50-2740-4e1a-b95e-3b19f97e8a4e) 
 
 TRÌNH TỰ THỰC HIỆN: 
