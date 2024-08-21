@@ -24,6 +24,7 @@ TRÌNH TỰ THỰC HIỆN:
    - Đường cong ROC
 7. Đưa ra lựa chọn
 8. Test
+
    ![image](https://github.com/user-attachments/assets/7d698361-8482-49d3-a352-c6bd431ce380)
    ![image](https://github.com/user-attachments/assets/f76b691a-26fb-472b-a2d2-5a435a17242f)
 
